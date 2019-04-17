@@ -11,5 +11,5 @@ First make a well functioning scanner by integrating autofocus than integrate Co
 
 # Technologies
 - XCode
+- Swift
 - Core data
-- 
